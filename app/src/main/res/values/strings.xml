@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Binance</string>
+    <string name="offline_text">Now your net is offline.</string>
+</resources>
